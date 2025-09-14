@@ -1,11 +1,17 @@
 # Aprendendo-Git
-Estudos iniciais sobre git e github
+Estudos iniciais sobre git e github  
 
-
-inicia o git (repositorio) no seu projeto = 
+inicia o git (repositorio) no seu projeto  
 git init
 
-verificar alteracoes de pastas e arquivos no projeto = 
+verificar alteracoes de pastas e arquivos no projeto  
 git status
 
-adiciona todos os arquicos e pastas modificados
+adiciona todos os arquicos e pastas modificados ao stage area  
+git add .
+
+cria e descreve um ponto na historia  
+git commit -m "escreva aqui"
+
+historico de commits do projeto  
+git log
