@@ -22,7 +22,7 @@ git clone "url do repositorio"
 Exemplo  
 git clone "https://github.com/gabriellopes-dev/Aprendendo-Git.git"  
 
-selecionar a pasta no terminal
+selecionar a pasta no terminal  
 cd "diretorio da pata"
 
 Exemplo  
