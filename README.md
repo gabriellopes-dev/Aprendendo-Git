@@ -15,3 +15,21 @@ git commit -m "escreva aqui"
 
 historico de commits do projeto  
 git log
+
+clonar/copiar um repositorios para a sua maquina  
+git clone "url do repositorio"
+
+Exemplo  
+git clone "https://github.com/gabriellopes-dev/Aprendendo-Git.git"  
+
+selecionar a pasta no terminal
+cd "diretorio da pata"
+
+Exemplo  
+cd C:\Users\NomeDoUsuario\Documentos\Projetos\Aprendendo-Git
+
+listar arquivos da pasta  
+ls
+
+voltar a pasta no terminal  
+cd ..
