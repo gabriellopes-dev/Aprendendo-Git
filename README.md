@@ -8,7 +8,10 @@ verificar alteracoes de pastas e arquivos no projeto
 git status
 
 adiciona todos os arquicos e pastas modificados ao stage area  
-git add .
+git add "nome do arquivo"
+
+Exemplo  
+git add frases.txt
 
 cria e descreve um ponto na historia  
 git commit -m "escreva aqui"
