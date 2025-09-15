@@ -35,7 +35,7 @@ Exemplo
 git restore --staged frases.txt
 git restore <file>
 
-cria e descreve um ponto na historia  
+cria e descreve um commit/versao no repositorio  
 git commit -m "escreva aqui"
 
 historico de commits do projeto  
